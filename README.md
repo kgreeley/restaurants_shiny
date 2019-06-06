@@ -1,5 +1,3 @@
 # restaurants_shiny
 
-# This is my shiny app! Click the link below
-
-https://kylegreeley.shinyapps.io/restaurants/
+This is the NYC restaurant shiny project I worked on during my time at NYC Data Science Academy.
